@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# RAG / data folders
+vectorstore/
+.ollama/
+
+# ENV files
+.env
+
+# Streamlit secrets (VERY IMPORTANT)
+.streamlit/secrets.toml
