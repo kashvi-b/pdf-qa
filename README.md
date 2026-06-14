@@ -188,3 +188,4 @@ pdf-qa/
 ## ⭐ If you like this project
 
 Give it a star on GitHub!
+# redeploy
