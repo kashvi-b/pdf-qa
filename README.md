@@ -14,7 +14,15 @@ The goal of this project is to demonstrate practical skills in:
 * LLM Integration
 
 ---
+# PDF QA (Clean RAG Version)
 
+🚀 Live App: https://your-app-name.streamlit.app
+
+A PDF Question Answering system built with:
+- Streamlit
+- FAISS
+- Sentence Transformers
+- Groq LLM
 ## 🎯 Features
 
 * 📂 Upload PDF documents
