@@ -16,7 +16,7 @@ The goal of this project is to demonstrate practical skills in:
 ---
 # PDF QA (Clean RAG Version)
 
-🚀 Live App: https://your-app-name.streamlit.app
+🚀 Live App: https://pdf-app-kb.streamlit.app/
 
 A PDF Question Answering system built with:
 - Streamlit
